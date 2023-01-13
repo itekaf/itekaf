@@ -1,8 +1,7 @@
 # Roman Lauryniuk
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=svoboda-rabstvo&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=svoboda-rabstvo&theme=dark)
 
-### Contribution 👋
 
 ![Repometric](https://avatars3.githubusercontent.com/u/17450030?s=60&v=4)
 ![Linterhub](https://avatars1.githubusercontent.com/u/39357698?s=60&v=4)
