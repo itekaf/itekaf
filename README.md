@@ -14,4 +14,4 @@
 
 ## Videos
 
-![Chrome Dev Tools](https://www.youtube.com/watch?v=0sDHMq3x4fA&t=12s&ab_channel=RollingScopesSchool)
+[Chrome Dev Tools](https://www.youtube.com/watch?v=0sDHMq3x4fA&t=12s&ab_channel=RollingScopesSchool)
