@@ -18,5 +18,5 @@
 
 ## Sounds & Mixes
 
-[Phantom](https://soundcloud.com/officialphantom)
-[RL](https://soundcloud.com/romalavr)
+- [Phantom](https://soundcloud.com/officialphantom)
+- [RL](https://soundcloud.com/romalavr)
