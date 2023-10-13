@@ -12,7 +12,7 @@
 ![Rolling Scopes School](https://avatars1.githubusercontent.com/u/11501370?s=60&v=4)
 ![Html Academy](https://avatars2.githubusercontent.com/u/22890904?s=60&v=4)
 
-# Tutor & Teacher
+#### Tutor & Teacher
 - [PrePly](https://preply.com/ru/repetitor/3034129)
 
 ## Videos
