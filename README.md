@@ -27,3 +27,7 @@
 ## Music Scrobbler 
 
 - [LastFM](https://www.last.fm/ru/user/Cvoboda-Rabctvo)
+
+## Publishing 
+
+- [Kind Man](./src/Человек%20—%20добро.html)
