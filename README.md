@@ -23,3 +23,7 @@
 
 - [Phantom](https://soundcloud.com/officialphantom)
 - [RL](https://soundcloud.com/romalavr)
+
+## Music Scrobbler 
+
+- [LastFM](https://www.last.fm/ru/user/Cvoboda-Rabctvo)
